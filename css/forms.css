@@ -1,0 +1,12 @@
+/* formates a table used as a form.
+
+*/
+
+.twoColForm {
+	border: none;
+}
+
+.twoColForm  td:first-child {
+	text-align: right;
+}
+
